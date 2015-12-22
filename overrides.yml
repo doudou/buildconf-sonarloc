@@ -6,3 +6,7 @@
 #   - rtt
 #     branch: test
 #  
+
+version_control:
+    - bundles/sonarloc:
+        github: doudou/bundles-sonarloc
